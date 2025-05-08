@@ -14,7 +14,7 @@
 * CSS
 
 ## 圖示
-[solon官網](https://www.soloneshop.com.tw/)
+[Solon官網](https://www.soloneshop.com.tw/)
 
 ![爬取網站](https://github.com/hsuan-iris/TSAI-HSUAN.github.io/blob/main/%E5%AE%98%E7%B6%B2%E5%B0%81%E9%9D%A2.jpg)
 ## 📮作者
